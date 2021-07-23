@@ -1,0 +1,12 @@
+{
+	"Name": "Machine_1",
+	"URL": "http://192.168.0.60:5000/sample?interval=0&path=//Axes//DataItem",
+	"Asset_ID": "OKUMA_NEW",
+	"Operator_ID": "Operator_1",
+	"Components": ["Position", "Load"],
+	"ID_Maps": [{
+		"X_Pos": "X_Position",
+		"Y_Pos": "Y_Position",
+		"Z_Pos": "Z_Position"
+	}]
+}
